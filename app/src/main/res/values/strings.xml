@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NagavationLearn</string>
+	<string name="str_blog">白色骑士</string>
+    <string name="str_share">分享</string>
+    <string name="str_about">简书地址:http://www.jianshu.com/users/1ce917c2ca90/latest_articles</string>
+</resources>
